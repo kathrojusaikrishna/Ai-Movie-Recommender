@@ -1,0 +1,16 @@
+# Ignore large/model files
+*.pkl
+
+# Node
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+backend/.env
+
+# Mac
+.DS_Store
